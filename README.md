@@ -1,11 +1,10 @@
-#### <div align="center"> Olá pessoas! <p></p> <p> <img align="center" alt="Avt-Hanna" height="150" style="border-radius:100px;" src="https://i.postimg.cc/jdZ9fQwg/avhanna.gif"> </p> </div>
+####  <h1 align="center">Olá pessoas!</h1> 
+<div align="center"><img alt="Avt-Hanna" height="170" src="https://i.postimg.cc/jdZ9fQwg/avhanna.gif">
+  <a href="https://github.com/hanna-araujo"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hanna-araujo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/> 
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-araujo&layout=compact&langs_count=7&theme=jolly"/> </a>
+</div> 
 
-
-<div align="center">
-  <a href="https://github.com/hanna-araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanna-araujo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-araujo&layout=compact&langs_count=7&theme=jolly"/>
-</div>
 
 ##
 
@@ -15,6 +14,7 @@
   <img align="center" alt="H-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="H-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="H-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
+  
 </div>
   
   ##
