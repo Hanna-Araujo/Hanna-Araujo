@@ -1,4 +1,4 @@
-#### <div align="center"> Olá pessoas! <p></p> <p> <img align="center" alt="Avt-Hanna" height="150" style="border-radius:50px;" src="https://i.postimg.cc/jdZ9fQwg/avhanna.gif"> </p> </div>
+#### <div align="center"> Olá pessoas! <p></p> <p> <img align="center" alt="Avt-Hanna" height="150" style="border-radius:100px;" src="https://i.postimg.cc/jdZ9fQwg/avhanna.gif"> </p> </div>
 
 
 <div align="center">
